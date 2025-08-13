@@ -6,3 +6,6 @@ RENCANA PROJEK YOHANA
 - Pomodoro timer
 - Web portofolio
 - OPP Python
+- OPP C++
+- Web Photography
+ * Menggunakan html, css, javascrip
