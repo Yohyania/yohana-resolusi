@@ -4,5 +4,7 @@ RENCANA PROJEK YOHANA
   * Game flappi bird
   * Dengan pygame
 - Pomodoro timer
+  * Dengan html, ,css, javascrip
+  * Tambah fitur play musik spotify
 - Web portofolio
 - OPP Python
