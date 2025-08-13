@@ -8,3 +8,4 @@ RENCANA PROJEK YOHANA
 - OPP Python
 - OPP C++
 - Web Photography
+ * Menggunakan html, css, javascrip
