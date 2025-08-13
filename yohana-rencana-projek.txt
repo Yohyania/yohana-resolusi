@@ -1,0 +1,5 @@
+RENCANA PROJEK YOHANA
+
+- Mini game python
+- Pomodoro timer
+- Web portofolio
