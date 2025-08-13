@@ -1,5 +1,7 @@
 RENCANA PROJEK YOHANA
 
 - Mini game python
+  * Game flappi bird
+  * Dengan pygame
 - Pomodoro timer
 - Web portofolio
